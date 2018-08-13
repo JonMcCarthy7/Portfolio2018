@@ -39,7 +39,7 @@ body {
 }
 
 .projects {
-  color: #bfc0c0;
+  padding-left: 3.3rem;
 }
 
 a {
@@ -64,6 +64,7 @@ a:active {
 
 .icon {
   font-size: 4rem;
+  color: #fff;
 }
 
 .bio {
@@ -71,13 +72,6 @@ a:active {
   font-size: 1.2rem;
 }
 
-.hvr-grow {
-  display: inline-block;
-  vertical-align: middle;
-  transform: translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  backface-visibility: hidden;
-  -moz-osx-font-smoothing: grayscale;
-  transition-duration: 0.3s;
-  transition-property: transform;
+.footer-text a {
+  color: #ef8354;
 }
